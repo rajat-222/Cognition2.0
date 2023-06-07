@@ -1,0 +1,38 @@
+p.left{
+    text-align: left;
+}
+p.right{
+    text-align: right;
+}
+
+p.center{
+    text-align: center;
+}
+
+p.just{
+    text-align: justify;
+}
+
+.deco_u{
+    text-decoration: underline;
+}
+
+.deco_o{
+    text-decoration: overline;
+}
+
+.deco_s{
+    text-decoration: line-through;
+}
+
+.T1{
+    text-transform: uppercase;
+}
+
+.T2{
+    text-transform: lowercase;
+}
+
+.T3{
+    text-transform: capitalize;
+}

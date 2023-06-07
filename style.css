@@ -1,0 +1,37 @@
+h1{
+    border: 1px solid green;
+}
+p{
+    border: 1px dotted blue;
+}
+
+p{
+    background-color: gray;
+    color: aqua;
+}
+
+p{
+    background-color: white;
+}
+
+*{color: brown;
+    background-color: yellowgreen; }
+
+.B1{
+    border-top-width: 5px;
+    border-top-color: blue;
+    border-top-style: dashed;
+}
+.pad{
+    padding: 20px 30px 20px 20px;
+          /* top  right bottom left */
+}
+
+.mar{
+    margin: 20px  30px   40px   50px ;
+         /* top  right bottom left */
+}
+
+p.blue{
+    color: blue;
+}
